@@ -1,8 +1,6 @@
 import subprocess
 from utils.exeptions import NoDevicesError
 
-# Создание собственного класса ошибки для оповещения об отсутсвии приложения
-
 
 # Метод для определения идентификатора устройства
 def initialization_udid():
