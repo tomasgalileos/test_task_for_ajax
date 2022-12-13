@@ -1,0 +1,1 @@
+import pytestfrom framework.sidebar import SideBar@pytest.fixture(scope='session')def menu_drawer_fixture(driver):    yield SideBar(driver)

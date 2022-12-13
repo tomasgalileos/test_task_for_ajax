@@ -1,0 +1,1 @@
+from .page import Pageclass SideBar(Page):    pass
