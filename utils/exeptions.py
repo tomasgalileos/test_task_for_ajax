@@ -1,1 +1,6 @@
-class NoDevicesError(Exception):    passclass NoConnection(Exception):    pass
+class NoDevicesError(Exception):
+    pass
+
+
+#class NoConnection(Exception):
+#    pass
